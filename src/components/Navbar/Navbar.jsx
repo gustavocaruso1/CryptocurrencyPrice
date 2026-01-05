@@ -19,7 +19,7 @@ const Navbar = () => {
                 <option value="brl">BRL</option>
             </select>
             <button>
-                Sign up <img src={arrow_icon} alt="" />
+                Cadastre-se <img src={arrow_icon} alt="" />
             </button>
         </div>
     </div>
